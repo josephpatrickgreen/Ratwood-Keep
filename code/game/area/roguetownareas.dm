@@ -1,7 +1,3 @@
-GLOBAL_LIST_EMPTY(chosen_music)
-
-GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town,/area/rogue/outdoors/town,/area/rogue/under/town)) //hey
-
 /area/start
 	name = "start area"
 	icon_state = "start"
@@ -74,6 +70,19 @@ GLOBAL_LIST_INIT(roguetown_areas_typecache, typecacheof(/area/rogue/indoors/town
 	droning_sound_night = 'sound/music/area/sleeping.ogg'
 	converted_type = /area/rogue/indoors/shelter
 	soundenv = 16
+
+/area/rogue/outdoors/east_turf
+	name = "east turf"
+
+/area/rogue/outdoors/west_turf
+	name = "west turf"
+
+/area/rogue/outdoors/corpo
+	name = "corporation"
+
+/area/rogue/outdoors/slum
+	name = "slums"
+
 
 /area/rogue/indoors/shelter
 	icon_state = "shelter"

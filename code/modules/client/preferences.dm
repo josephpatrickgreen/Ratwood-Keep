@@ -755,7 +755,7 @@ GLOBAL_LIST_INIT(name_adjustments, list())
 	data += " only)"
 	return data
 
-/datum/preferences/proc/SetChoices(mob/user, limit = 15, list/splitJobs = list("Court Magos", "Retinue Captain", "Priest", "Merchant", "Archivist", "Towner", "Grenzelhoft Mercenary", "Beggar", "Prisoner", "Goblin King"), widthPerColumn = 295, height = 670) //295 620
+/datum/preferences/proc/SetChoices(mob/user, limit = 15, list/splitJobs = list("Senior Thaumaturgist", "Police Commissioner", "Surgeon", "GENESEC", "Store Clerk", "Landlord", "Civilian", "Grenzelhoft Mercenary", "Junkie", "Prisoner", "Goblin King"), widthPerColumn = 295, height = 670) //295 620
 	if(!SSjob)
 		return
 

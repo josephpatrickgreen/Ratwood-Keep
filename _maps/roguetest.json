@@ -1,8 +1,22 @@
 {
-    "map_name": "Roguetest",
-    "map_path": "map_files/roguetest",
-    "map_file": "roguetest.dmm",
-	"traits": [{"Up": true}, {"Down": true}],
+    "map_name": "Grotesque: Nephilim",
+    "map_path": "map_files/grotesque",
+    "map_file": "grotesque2.dmm",
+
+	"traits": [
+				{"Up": true},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Up": true, "Down": true, "Baseturf": "/turf/open/transparent/openspace"},
+				{"Down": true, "Baseturf": "/turf/open/transparent/openspace"}
+			],
+
 	"minetype": null,
 	"space_empty_levels": 0,
 	"space_ruin_levels": 0

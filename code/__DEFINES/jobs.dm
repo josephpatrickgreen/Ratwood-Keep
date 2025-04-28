@@ -361,11 +361,11 @@
 	/datum/job/roguetown/towner,\
 	/datum/job/roguetown/nightmaiden,\
 	/datum/job/roguetown/beggar,\
-	/datum/job/roguetown/butcher,\
-	/datum/job/roguetown/cook,\
+	/datum/job/roguetown/runner,\
+	/datum/job/roguetown/pour_jack,\
 	/datum/job/roguetown/lunatic,\
-	/datum/job/roguetown/nightman,\
-	/datum/job/roguetown/farmer,\
+	/datum/job/roguetown/vicebroker,\
+	/datum/job/roguetown/pawnbroker,\
 	/datum/job/roguetown/orphan,\
 	/datum/job/roguetown/shophand,\
 	/datum/job/roguetown/bapprentice,\
